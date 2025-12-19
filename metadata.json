@@ -1,0 +1,5 @@
+{
+  "name": "Kris Copy of FINAL RoomDesign AI ",
+  "description": "An AI-powered interior design application that generates photorealistic room designs based on user-defined dimensions, door/window placements, aesthetic preferences, and budget constraints. Users can interact with a 3D model of their room and receive styled mockups with furniture recommendations.",
+  "requestFramePermissions": []
+}
